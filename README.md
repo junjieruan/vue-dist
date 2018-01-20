@@ -30,5 +30,5 @@ npm run build
 ```bash
 # 再回到setting内的github pages选项处,项目的预览链接已经出现辣!
 # 像本vue-dist项目链接就是访问如下链接：
-https://github.com/junjieruan/vue-dist/index.html
+https://junjieruan.github.io/vue-dist/#/
 ```
