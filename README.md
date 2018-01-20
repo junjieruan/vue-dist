@@ -32,3 +32,5 @@ npm run build
 # 像本vue-dist项目链接就是访问如下链接：
 https://junjieruan.github.io/vue-dist/#/
 ```
+
+## 此时调用数据库还是失败，要换成线上的数据库才行
